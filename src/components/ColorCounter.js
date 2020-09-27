@@ -9,11 +9,11 @@ const ColorCounter = (props) => {
       <Text style={styles.text}>{props.color}</Text>
       <Button
         title={`Increase ${props.color}`}
-        
+        onPress={() => props.onIncrease()}
       />
             <Button
         title={`Decrease ${props.color}`}
-       
+        onPress={() => props.onDecrease()}
       />
     </View>
   );
