@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://gr-ini.anonymous.react-native.exp.direct",
+  "packagerNgrokUrl": "https://packager.gr-ini.anonymous.react-native.exp.direct",
+  "ngrokPid": 7452,
+  "packagerPort": 19001,
+  "packagerPid": 11288,
+  "devToolsPort": 19002
+}
